@@ -4,7 +4,6 @@ engines:
     channel: "beta"
   scalastyle:
     enabled: true
-    channel: "beta"
   markdownlint:
     enabled: true
   shellcheck:
